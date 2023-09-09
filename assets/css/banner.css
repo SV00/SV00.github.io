@@ -111,6 +111,7 @@ nav .logo {
     right: 0px;
     text-align: left;
     z-index: 2;
+    visibility: "hidden";
   }
 
   .nav-links ul {
